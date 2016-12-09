@@ -4,6 +4,7 @@ module calculation {
 		ADDITION,
 		SUBTRACTION,
 		MULTIPLICATION,
+		DIVISION,
 		SQUARE_N,
 		SQUARE_ROOT
 	}
